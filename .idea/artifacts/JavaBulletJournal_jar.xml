@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavaBulletJournal:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaBulletJournal_jar</output-path>
+    <root id="archive" name="JavaBulletJournal.jar">
+      <element id="module-output" name="JavaBulletJournal" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jfoenix.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/joda-time-2.10.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/derby.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
